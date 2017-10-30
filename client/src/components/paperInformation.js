@@ -18,7 +18,7 @@ export default [
   {
     Icon: () => <HotelIcon className="Landing-paperIcons-4" />,
     description:
-      'Find popular, nearby hotels with their ratings, along with reviews from costumers and detailed information thanks to Yelp.'
+      'Find popular, nearby hotels with their ratings, along with reviews from customers and detailed information thanks to Yelp.'
   },
   {
     Icon: () => <FavoriteBorderIcon className="Landing-paperIcons-4" />,
